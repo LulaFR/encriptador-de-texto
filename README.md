@@ -1,7 +1,5 @@
 # ENCRIPTADOR DE TEXTO
 
-![imagen](https://i.pinimg.com/564x/c9/81/4d/c9814d88915f50965c947c04bf6ae5e1.jpg)
-
 Este es un proyecto hecho de la mano de *Alura Latam*, habiéndome instruido a través de sus cursos mediante el programa *ONE* de *Oracle*
 
 Como su nombre lo indica, el encriptador de texto es una aplicación que le permite al usuario:
