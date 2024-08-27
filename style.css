@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); 
+
+body {
+    background-color: rgba(165, 190, 121, 0.4);
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: 4px solid black;
+}
+
+/*.logo {
+    padding-top: 30px;
+    padding-left: 25px;
+}*/
+
+main {
+    box-sizing: border-box;
+    width: 100%;
+    height: fit-content;
+    margin: 0;
+    border: 0;
+    padding: 10px 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.bloque-input {
+    box-sizing: border-box;
+    width: 400px;
+    height: 500px;
+    padding: 50px;
+    margin: 0;
+    border: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#textoUsuario {
+    box-sizing: border-box;
+    width: 557px;
+    height: 48px;
+    top: 168px;
+    left: 240px;
+    font-family: "Inter Regular", sans-serif;
+    color: black;
+}
+
+/*.bloque-botones {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}*/
+
+#textoResultado {
+    resize: none;
+}
