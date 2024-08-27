@@ -4,6 +4,7 @@ Este es un proyecto hecho de la mano de *Alura Latam*, habiéndome instruido a t
 
 Como su nombre lo indica, el encriptador de texto es una aplicación que le permite al usuario:
 >Ingresar texto plano para luego encriptarlo
+
 >Ingresar un texto encriptado (por la misma aplicación) para convertirlo a su versión original
 
 El texto que se ingresa tiene ciertas restricciones:
