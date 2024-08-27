@@ -8,9 +8,7 @@ Como su nombre lo indica, el encriptador de texto es una aplicación que le perm
 
 El texto que se ingresa tiene ciertas restricciones:
 >Solo se pueden ingresar letras minúsculas del alfabeto latino, de modo que:
->>No pueden ingresarse letras en otro tipo de escritura
->>No pueden ingresarse letras mayúsculas del alfabeto latino
->>No pueden utilizarse tildes, guiones ni cualquier tipo de caracter especial
+>>No pueden ingresarse letras en otro tipo de escritura, letras mayúsculas del alfabeto latino, ni tildes, guiones o cualquier tipo de caracter especial
 
 Si bien el diseño no está terminado, la aplicación es funcional
 
