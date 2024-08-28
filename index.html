@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Encriptador de texto</title>
+</head>
+<body>
+    <header class="header">
+        <img id="logo" src="fotos/Logo.png" alt="Logo Alura">
+        <div id="separador"></div>
+    </header>
+    <main>
+        <div class="bloque-input">
+            <input id="textoUsuario" type="text" placeholder="Ingrese el texto acá">
+            <div id="bloqueAtencion">
+                <img src="./fotos/bi_exclamation-circle-fill.png" alt="Atención">
+                <p id="textoAtencion">Solo letras minúsculas y sin tildes</p>
+            </div>
+            <div class="bloque-botones">
+                <button  onclick="encriptar();" class="boton-transformar">Encriptar</button>
+                <button onclick="desencriptar();" class="boton-transformar">Desencriptar</button>
+            </div>
+        </div>
+        <div class="bloque-resultado">
+            <textarea name="resultado" id="textoResultado"></textarea>
+            <button onclick="copiar();" id="botonCopiar">Copiar</button>
+        </div>
+    </main>
+    <footer>
+        <p>| Luciana A. Fenoy Rivas | 2024 |</p>
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>
