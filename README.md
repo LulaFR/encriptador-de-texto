@@ -11,7 +11,7 @@ El texto que se ingresa tiene ciertas restricciones:
 >Solo se pueden ingresar letras minúsculas del alfabeto latino, de modo que:
 >>No pueden ingresarse letras en otro tipo de escritura, letras mayúsculas del alfabeto latino, ni tildes, guiones o cualquier tipo de caracter especial
 
-Si bien el diseño no está terminado, la aplicación es funcional
+Si bien el diseño no está terminado, la aplicación es funcional para escritorio
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
